@@ -4,10 +4,11 @@ I looked at some other calendars that were simple, but the code was also require
 
 Usage:
 
+<pre>
 <script type='text/javascript'>
     $(function() {
         $('#calendar').calendarize()
     })
 </script>
-
+</pre>
 That's it.
