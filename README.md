@@ -1,12 +1,17 @@
-Generates a table calendar to put on your webpage. 
-I looked at some other calendars that were simple, but the code was also required a lot of searching to customize the table, so I wrote one that's easier to deal with. See the example for what it looks like by default (assuming you have bootstrap).
+# Calendarize
+
+Generates a simple table calendar to put on your webpage. It's easy enough to modify and extend to your own needs. 
 
 
-Usage:
+## Usage
 
     <script type='text/javascript'>
         $(function() {
             $('#calendar').calendarize()
         })
     </script>
-That's it.
+That's all that's necessary.
+
+
+## Screenshot
+![A calendar](/example/screenshot.png "August 2013")
